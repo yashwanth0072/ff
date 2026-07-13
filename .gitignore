@@ -1,0 +1,15 @@
+# Build output
+/ff
+/ff.exe
+
+# Go tooling
+*.test
+*.out
+/vendor/
+
+# Editors / OS cruft
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
