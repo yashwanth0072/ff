@@ -97,7 +97,7 @@ your query
 
 **Automatic (recommended)**
 ```bash
-git clone https://github.com/yashwanth/ff.git
+git clone https://github.com/yashwanth0072/ff.git
 cd ff
 ./install.sh
 ```
