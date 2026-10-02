@@ -107,7 +107,7 @@ cd ff
 
 **1 · Clone the repo**
 ```bash
-git clone https://github.com/yashwanth/ff.git
+git clone https://github.com/yashwanth0072/ff.git
 cd ff
 ```
 
