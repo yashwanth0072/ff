@@ -99,6 +99,7 @@ your query
 ```bash
 git clone https://github.com/yashwanth0072/ff.git
 cd ff
+chmod +x install.sh
 ./install.sh
 ```
 `install.sh` checks your dependencies, builds from source if you have Go (falls back to the prebuilt `linux/amd64` binary if not), installs to `~/.local/bin/ff`, and warns you if that directory isn't on your `PATH` yet — with the exact line to add for your shell.
